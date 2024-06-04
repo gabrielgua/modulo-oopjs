@@ -54,9 +54,6 @@ const funcionario = new Funcionario(maria.nome, 'Desenvolvedor Backend', 5000);
 const estag = new Estagiario(joao.nome);
 const gerente = new Gerente(paula.nome);
 
-
-Object.new
-
 funcionario.sobre();
 funcionario.aumento();
 funcionario.sobre();
